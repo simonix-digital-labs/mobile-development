@@ -27,7 +27,7 @@ Production ready solution that you are proud of.
 
 ## Wireframe
 *For reference only, you can be creative with design and UI/UX features.*
-![Wireframe](/mobile-engineer-wireframe.png)
+![Wireframe](/wireframe.png)
 
 ## Evaluating your take-home exercise
 We score a solution on six criteria, which have been selected to take into account the fact that candidates might have different preferences for libraries/frameworks than us because of circumstances, and we look for general programming ability rather than familiarity with specific tools.
