@@ -5,7 +5,7 @@ As an user I want to be able to see a list of all devices [Seperating by Rooms],
 
 ### User Requirements
 - User can add room and device inside the room.
-- Device can be publish or subscribe.
+- Device can be publisher or subscriber[p/s means publisher or subscriber ].
 - Show room in Tabs and related device to room from local database. 
 - Show details when user select an item in the list.
 
