@@ -1,7 +1,7 @@
 # Simonix Mobile Developer Technical Challenge
 
 ### Business requirement
-As an user I want to be able to see a list of all devices [Seperating by Rooms], including device name and staus. 
+As an user I want to be able to see a list of all devices [Seperating by Rooms], including device name and status. 
 
 ### User Requirements
 - User can add room and device inside the room.
