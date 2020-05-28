@@ -84,4 +84,4 @@ The scoring has six different sections (see table above), all of which contribut
  4. If the total score is less than the cut-off score, respond with an email to the candidate which contains the score and what criteria they lost points in.
 
 
-**Questions? We love to answer: <dialami@simonix.my>, <mutahar@simonix.my>, <amitjaiswal@simonix.my>**
+**Questions? We love to answer: <dailami@simonix.my>, <mutahar@simonix.my>, <amitjaiswal@simonix.my>**
